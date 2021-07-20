@@ -1,0 +1,2 @@
+# Debates-Agreement-vs-Disagreement
+Nowadays,  there  is  an  increasing  need  to  understand  howpeople  disagree  with  each  other  when  they  express  their  opinions.  Inthis project there is a focus on understanding whether two arguments,discussing specific topic agree or not. In particular in this project differentsupervised classification techniques have been used, exploiting featuresextracted from the text, to create a system capable of classifying debatespositions determining if there is ”agreement” or ”disagreement”
